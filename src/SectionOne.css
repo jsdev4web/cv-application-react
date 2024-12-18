@@ -1,0 +1,26 @@
+.sectOne {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+
+.infoButton {
+    border: .5px solid black;
+    width: 125px;
+}
+
+.previous {
+    border: .5px solid black;
+}
+
+.buttonHolder{
+    display: flex;
+    border: 1px solid blue;
+}
+
+.output {
+    display: flex;
+    flex-direction: column;
+    font-weight: 900;
+}
